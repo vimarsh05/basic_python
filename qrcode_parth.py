@@ -1,7 +1,7 @@
 import pyqrcode
 import png
 
-text='parth'
+text='parth.png'
 
 try:
     url=pyqrcode.create(text)
